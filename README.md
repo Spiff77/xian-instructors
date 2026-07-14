@@ -6,3 +6,4 @@
 ## Extras
 ### Git
  - Lab (optional. appx 1 - 1h30) [here](./git)
+ - Git wheelofnames [here](./git/git-wheelofnames.pdf)
