@@ -1,7 +1,7 @@
 # Xian - resources
 ## Links
-- Student Skill Survey: [here](https://www.wenjuan.com/s/UZBZJvKncZd/#)
-- Easy Retro: [here](https://easyretro.io/publicboard/YBcjy7e4ZtRJnAEwf7IyVmamwMl1/a5076698-fc8a-4d19-8a7f-81f80cae47d7)
+- Student Skill Survey: [link](https://www.wenjuan.com/s/UZBZJvKncZd/#) [qr](./qr-codes/student-skill-survey.png)
+- Easy Retro: [link](https://easyretro.io/publicboard/YBcjy7e4ZtRJnAEwf7IyVmamwMl1/a5076698-fc8a-4d19-8a7f-81f80cae47d7) [qr](./qr-codes/easy-retro.png)
 
 ## Extras
 ### Git
