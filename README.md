@@ -1,7 +1,7 @@
 # Xian - resources
 
 ## Projects
- - You can see groups [HERE](https://drive.proton.me/urls/4T433W7BCR#z5DAUu3cSfbq) 												
+ - You can see groups [HERE](https://drive.proton.me/urls/W7HT7ARXF0#L1zMCPA91RGv) 												
 
 ## Links
 - Student Skill Survey: [link](https://www.wenjuan.com/s/UZBZJvKncZd/#) - [qr](./qr-codes/student-skill-survey.png)
