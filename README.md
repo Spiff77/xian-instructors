@@ -31,12 +31,12 @@
  	- 09 Strings.pdf
 
  	 
- - Java step 3 wheelofnames covering topics below [here](./java/java-step4-quiz.pdf) (15 slides)
+ - Java step 3 wheelofnames covering topics below [here](./java/java-step3-quiz.pdf) (15 slides)
  	- 10 Inheritance.pdf
  	- 11 Interfaces.pdf
  	- 12 Lambdas.pdf
 
- 	 - Java step 3 wheelofnames covering topics below [here](./java/java-step4-quiz.pdf) (15 slides)
+ - Java step 4 wheelofnames covering topics below [here](./java/java-step4-quiz.pdf) (15 slides)
  	- 13 Java Collections API.pdf
  	- 14 Enums.pdf
  	- 15 Exception Handling.pdf
