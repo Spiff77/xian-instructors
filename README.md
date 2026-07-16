@@ -12,5 +12,32 @@
 ### Git
  - Lab (optional. appx 1 - 1h30) [here](./git)
  - Git wheelofnames [here](./git/git-wheelofnames.pdf)
+ 
 ### SQL
  - SQL wheelofnames [here](./sql/sql-wheelofnames.pdf)
+
+### Java
+ - Java step 1 wheelofnames covering topics below [here](./java/java-step1-quiz.pdf) (10 slides)
+ 	- 01 Introduction to Java.pdf
+ 	- 02 Java the basics
+ 	- 03 Looping and Branching.pdf
+ 
+ - Java step 2 wheelofnames covering topics below [here](./java/java-step2-quiz.pdf) (15 slides)
+ 	- 04 Introduction to OO.pdf
+ 	- 05 Introduction to Objects in Java.pdf
+ 	- 06 Working With Arrays.pdf
+ 	- 07 More On Classes.pdf
+ 	- 08 Organising Java Classes.pdf
+ 	- 09 Strings.pdf
+
+ 	 
+ - Java step 3 wheelofnames covering topics below [here](./java/java-step4-quiz.pdf) (15 slides)
+ 	- 10 Inheritance.pdf
+ 	- 11 Interfaces.pdf
+ 	- 12 Lambdas.pdf
+
+ 	 - Java step 3 wheelofnames covering topics below [here](./java/java-step4-quiz.pdf) (15 slides)
+ 	- 13 Java Collections API.pdf
+ 	- 14 Enums.pdf
+ 	- 15 Exception Handling.pdf
+ 	
