@@ -4,7 +4,8 @@
 
 
 ## Projects
- - You can see groups [HERE](https://drive.proton.me/urls/W7HT7ARXF0#L1zMCPA91RGv) 												
+ - You can see groups [HERE](https://drive.proton.me/urls/W7HT7ARXF0#L1zMCPA91RGv) 	
+ - Trivia test is avalailble on [HERE](https://quiztime.neueda.com/dashboard). Named Fun Trivia Quiz - Tech & General Knowledge. You can use this ref for picture and video of some answers: [HERE] (./misc/trivia_question_image_links_table.md)								
 
 ## Links
 - Student Skill Survey: [link](https://www.wenjuan.com/s/UZBZJvKncZd/#) - [qr](./qr-codes/student-skill-survey.png)
