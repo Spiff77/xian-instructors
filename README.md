@@ -1,6 +1,6 @@
 # Xian - resources
 
-*TODAY QUIZ*  : https://test.neueda.com/test/HSBC2026EngineeringLinuxSQL
+*TODAY QUIZ*  : https://test.neueda.com/test/HSBC2026EngineeringLinuxSQL. [qr](./qr-codes/student-test-linux.png)
 
 
 ## Projects
