@@ -1,5 +1,8 @@
 # Xian - resources
 
+*TODAY QUIZ*  : https://test.neueda.com/test/HSBC2026EngineeringLinuxSQL
+
+
 ## Projects
  - You can see groups [HERE](https://drive.proton.me/urls/W7HT7ARXF0#L1zMCPA91RGv) 												
 
