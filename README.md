@@ -1,7 +1,7 @@
 # Xian - resources.
 
 ## Today's Menu
- - For low energy activities, feel free to add your ideas! [here](https://drive.proton.me/urls/K6FMAN5R8M#ODlGNVy7wr9j)
+ - Activities for when the energy is low [here](https://drive.proton.me/urls/K6FMAN5R8M#ODlGNVy7wr9j).Feel free to add your ideas! 
  - Let's have now 2 breaks per half day minimum. Total break can be 30mn. 
  - We will run java test in the afternoon right after lunch, we will use the same duration as Guangzhou (20mn). Java test [link](https://test.neueda.com/test/HSBC2026EngineeringJavaProgramming) - [qr](./qr-codes/easy-retro.png) 
 
