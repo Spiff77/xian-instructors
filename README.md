@@ -1,4 +1,4 @@
-# Xian - resources
+# Xian - resources.
 
 ## Today's Menu
  - For low energy activities, feel free to add your ideas! [here](https://drive.proton.me/urls/K6FMAN5R8M#ODlGNVy7wr9j)
