@@ -1,12 +1,15 @@
 # Xian - resources
 
 ## Today's Menu
- - Trivia test is avalailble on [HERE](https://quiztime.neueda.com/dashboard). Named *Fun Trivia Quiz - Tech & General Knowledge*. You can use this ref for picture and video of some answers: [HERE](./misc/trivia_question_image_links_table.md)								
+ - For low energy activities, feel free to add your ideas! [here](https://drive.proton.me/urls/K6FMAN5R8M#ODlGNVy7wr9j)
+ - Let's have now 2 breaks per half day minimum. Total break can be 30mn. 
+ - We will run java test in the afternoon right after lunch, we will use the same duration as Guangzhou (20mn). Java test [link](https://test.neueda.com/test/HSBC2026EngineeringJavaProgramming) - [qr](./qr-codes/easy-retro.png) 
 
 ## Projects
  - You can see groups [HERE](https://drive.proton.me/urls/W7HT7ARXF0#L1zMCPA91RGv) 	
 
 ## Links
+- Trivia test is avalailble on [HERE](https://quiztime.neueda.com/dashboard). Named *Fun Trivia Quiz - Tech & General Knowledge*. You can use this ref for picture and video of some answers: [HERE](./misc/trivia_question_image_links_table.md)								
 - Student Skill Survey: [link](https://www.wenjuan.com/s/UZBZJvKncZd/#) - [qr](./qr-codes/student-skill-survey.png)
 - Easy Retro: [link](https://easyretro.io/publicboard/YBcjy7e4ZtRJnAEwf7IyVmamwMl1/a5076698-fc8a-4d19-8a7f-81f80cae47d7) - [qr](./qr-codes/easy-retro.png)
 - Neueda Quizz Time: [link](https://quiztime.neueda.com/dashboard)
