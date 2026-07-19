@@ -11,6 +11,7 @@
 ## Links
 - Trivia test is avalailble on [HERE](https://quiztime.neueda.com/dashboard). Named *Fun Trivia Quiz - Tech & General Knowledge*. You can use this ref for picture and video of some answers: [HERE](./misc/trivia_question_image_links_table.md)								
 - Student Skill Survey: [link](https://www.wenjuan.com/s/UZBZJvKncZd/#) - [qr](./qr-codes/student-skill-survey.png)
+- Student Evaluation (every week): [link](https://neueda.sharepoint.com/:x:/r/sites/CourseMaterials/_layouts/15/Doc.aspx?sourcedoc=%7B60DFDAE4-7D6B-4B77-9D01-2EC886929952%7D&file=HSBC%20Tracker%20Q3%202026%20Participant%20Progress.xlsx&action=default&mobileredirect=true)
 - Easy Retro: [link](https://easyretro.io/publicboard/YBcjy7e4ZtRJnAEwf7IyVmamwMl1/a5076698-fc8a-4d19-8a7f-81f80cae47d7) - [qr](./qr-codes/easy-retro.png)
 - Neueda Quizz Time: [link](https://quiztime.neueda.com/dashboard)
 
