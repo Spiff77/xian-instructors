@@ -17,7 +17,7 @@
 - Discovery training for students (Absent for the whole day): Please show them in the morning and be sure the ones that are supposed to be at the Discovery training are not in your room also check that others have recorded their date of training. [here](https://drive.proton.me/urls/7K33GM4YJR#pOHrjC8UdEnf)
 
 ## Extras
- - Online quizz for wheelsofname here: [here](https:/xian-slides.vercel.app/)
+ - Online quizz for wheelsofname here: [here](https://neueda-slides.vercel.app)
 
 ### Git
  - Lab (optional. appx 1 - 1h30) [here](./git)
