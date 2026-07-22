@@ -1,9 +1,7 @@
 # Xian - resources.
 
-## Today's Menu (Tuesday)
- - We will run java test in the morning, we will use the same duration as Guangzhou (20mn). Java test [link](https://test.neueda.com/test/HSBC2026EngineeringJavaProgrammingXian) - [qr](./qr-codes/easy-retro.png) 
- - Let's have now 2 breaks per half day minimum. Total break can be 30mn. 
-
+## Today's Menu (Wednesday)
+ - Idealy it would be great if we can rush a bit some less importants topics so we can start HTML/CSS/JS on thursday in the middle of the afternoon. The score on frontend when we collected their skills level is quite low. If you still manage to cover this in one day while starting earlier, then it will leave some rooms for project presentation/preparation. 
 ## Project
  - You can see groups [here](https://drive.proton.me/urls/W7HT7ARXF0#L1zMCPA91RGv) 	
  - **REMINDER: Do not mention about the project for now**. if you want to check the project, it is here [link](https://bitbucket.org/neuedamats/portfoliomanager/src/additional_projects/)
