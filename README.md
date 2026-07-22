@@ -1,13 +1,15 @@
 # Xian - resources.
 
 ## Today's Menu (Wednesday)
- - Idealy it would be great if we can rush a bit some less importants topics so we can start HTML/CSS/JS on thursday in the middle of the afternoon. The score on frontend when we collected their skills level is quite low. If you still manage to cover this in one day while starting earlier, then it will leave some rooms for project presentation/preparation. 
+ - Project presentation will happen on Friday during the last hours. All classes 
+ - Since we have many absents in Ravi's class on Monday we will move HTML/CSS/JS on Monday 27 for Tobias and Ang.  **Only Ravi's class will do HTML/CSS/JS on friday**.
+
 ## Project
  - You can see groups [here](https://drive.proton.me/urls/W7HT7ARXF0#L1zMCPA91RGv) 	
  - **REMINDER: Do not mention about the project for now**. if you want to check the project, it is here [link](https://bitbucket.org/neuedamats/portfoliomanager/src/additional_projects/)
 
 ## Quiz & Games
- - Activities for when the energy is low [here](https://drive.proton.me/urls/K6FMAN5R8M#ODlGNVy7wr9j).Feel free to add your ideas! 
+ - Activities for when the energy is low [here](https://drive.proton.me/urls/K6FMAN5R8M#ODlGNVy7wr9j). Feel free to add your ideas! 
  - Online quizz for wheelsofname here: [here](https://neueda-slides.vercel.app)
  - Neueda Quizz Time: [here](https://quiztime.neueda.com/dashboard)
 
