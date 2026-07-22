@@ -10,7 +10,7 @@
 
 ## Quiz & Games
  - Activities for when the energy is low [here](https://drive.proton.me/urls/K6FMAN5R8M#ODlGNVy7wr9j). Feel free to add your ideas! 
- - Online quizz for wheelsofname here: [here](https://neueda-slides.vercel.app)
+ - Online quizz for wheelsofname here: [here](https://slides.treelevel.io/)
  - Neueda Quizz Time: [here](https://quiztime.neueda.com/dashboard)
 
 ## Evaluation Links
