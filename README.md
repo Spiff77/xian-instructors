@@ -17,6 +17,11 @@
  - You can see groups [here](https://drive.proton.me/urls/W7HT7ARXF0#L1zMCPA91RGv) 	
  - Since we have many absents in Ravi's class on Monday we will move HTML/CSS/JS on Monday 27 for Tobias and Ang.  **Only Ravi's class will do HTML/CSS/JS on today**.
 
+### Tests
+ - We still have 2 test to run:
+   - https://test.neueda.com/test/HSBC2026EngineeringRestCICDXian
+   - https://test.neueda.com/test/HSBC2026EngineeringWebDevelopmentXian
+
 
 ## Quiz & Games
  - Activities for when the energy is low [here](https://drive.proton.me/urls/K6FMAN5R8M#ODlGNVy7wr9j). Feel free to add your ideas! 
