@@ -2,18 +2,20 @@
 
 ## Today's Menu (Friday)
 
-### Project presentation:
+### Project brief:
 
- - Project presentation will happen on Friday around 3:30pm. During this time students will
+ - Project brief will happen around 3:30pm. Trainees will
+   - Have project explained by their instructors
+    - (optionnal) Slide deck is here [here](https://slides.tomdev.it/project-guidelines/)
+   - Ask potential questions to their instructors
    - Choose a name for their team
-   - Create the github repository, adding colaborators so everyone have thir repo cloned
-   - Talk about the project
+   - Create the github repository, adding collaborators so everyone have thir repo cloned with the right access. 
+   - Talk about the project among them 
    - At the end of the day, register their repository
-   - Slide deck is here [here](https://slides.tomdev.it/project-guidelines/)
-   - Registration link is here: [here](https://accha-git.com/enroll/4716acde-e216-413f-b4e2-87cbdc1f89dc) - [qr](./qr-codes/enroll.png) 
+       - Registration link is here: [here](https://accha-git.com/enroll/4716acde-e216-413f-b4e2-87cbdc1f89dc) - [qr](./qr-codes/enroll.png) 
  - For dev track, there are 3 projects to choose from. you can see it here (be sure you stay on the xian branch of the repo) [here](https://github.com/nicktodd/program-projects/tree/main)
  - You can see groups [here](https://drive.proton.me/urls/W7HT7ARXF0#L1zMCPA91RGv) 	
- - Since we have many absents in Ravi's class on Monday we will move HTML/CSS/JS on Monday 27 for Tobias and Ang.  **Only Ravi's class will do HTML/CSS/JS on friday**.
+ - Since we have many absents in Ravi's class on Monday we will move HTML/CSS/JS on Monday 27 for Tobias and Ang.  **Only Ravi's class will do HTML/CSS/JS on today**.
 
 
 ## Quiz & Games
