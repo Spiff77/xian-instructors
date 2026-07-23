@@ -6,7 +6,7 @@
 
  - Project brief will happen around 3:30pm. Trainees will
    - Have project explained by their instructors
-    - (optionnal) Slide deck is here [here](https://slides.tomdev.it/project-guidelines/)
+     - (optionnal) Slide deck is here [here](https://slides.tomdev.it/project-guidelines/)
    - Ask potential questions to their instructors
    - Choose a name for their team
    - Create the github repository, adding collaborators so everyone have thir repo cloned with the right access. 
