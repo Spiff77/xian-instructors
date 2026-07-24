@@ -1,6 +1,7 @@
 # Xian - resources.
 
 ## Today's Menu (Friday)
+ - Feedbacks to be done right after lunch. You can do an activity beforehand if you want.
 
 ### Project brief:
 
@@ -16,6 +17,9 @@
  - For dev track, there are 3 projects to choose from. you can see it here (be sure you stay on the xian branch of the repo) [here](https://github.com/nicktodd/program-projects/tree/main)
  - You can see groups [here](https://drive.proton.me/urls/W7HT7ARXF0#L1zMCPA91RGv) 	
  - Since we have many absents in Ravi's class on Monday we will move HTML/CSS/JS on Monday 27 for Tobias and Ang.  **Only Ravi's class will do HTML/CSS/JS on today**.
+
+### Global infos:
+ - Virtual Machines and GitHub access for Xian will be terminated at the end of the last teaching day on the **31st July**.
 
 ### Tests
  - We still have 2 test to run:
