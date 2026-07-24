@@ -12,7 +12,7 @@
    - Choose a name for their team
    - Create the github repository, adding collaborators so everyone have thir repo cloned with the right access. 
    - Talk about the project among them 
-   - At the end of the day, register their repository
+   -**[POSTPONED: Waiting for public repo access]** At the end of the day, register their repository
        - Registration link is here: [here](https://accha-git.com/enroll/4716acde-e216-413f-b4e2-87cbdc1f89dc) - [qr](./qr-codes/enroll.png) 
  - For dev track, there are 3 projects to choose from. you can see it here (be sure you stay on the xian branch of the repo) [here](https://github.com/nicktodd/program-projects/tree/main)
  - You can see groups [here](https://drive.proton.me/urls/W7HT7ARXF0#L1zMCPA91RGv) 	
