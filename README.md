@@ -23,7 +23,7 @@
 
 ### Tests
  - We still have 2 test to run:
-   - https://test.neueda.com/test/HSBC2026EngineeringRestCICDXian
+   - https://test.neueda.com/test/HSBC2026EngineeringRestCICDXian - [qr](./qr-codes/cicd.png)
    - https://test.neueda.com/test/HSBC2026EngineeringWebDevelopmentXian
 
 
