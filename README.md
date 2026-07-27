@@ -1,7 +1,10 @@
 # Xian - resources.
-
-## Today's Menu (Friday)
- - Feedbacks to be done right after lunch. You can do an activity beforehand if you want.
+i
+## Today's Menu (Monday)
+ - HTML/CSS/JS test: https://test.neueda.com/test/HSBC2026EngineeringWebDevelopmentXian - [qr](./qr-codes/web.png)
+ - Lunch: Some events happens downstairs so they can't go there for lunch. Room 5-6 are available
+ - Starting wednesday, students of both room in sheraton will move in room 5 and 6 (they are combined) so we can conduct dry runs on room 3
+  
 
 ### Project brief:
 
