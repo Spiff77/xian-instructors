@@ -1,13 +1,11 @@
 # Xian - resources.
-i
+
 ## Today's Menu (Monday)
  - HTML/CSS/JS test: https://test.neueda.com/test/HSBC2026EngineeringWebDevelopmentXian - [qr](./qr-codes/web.png)
  - Lunch: Some events happens downstairs so they can't go there for lunch. Room 5-6 are available
  - Starting wednesday, students of both room in sheraton will move in room 5 and 6 (they are combined) so we can conduct dry runs on room 3
   
-
 ### Project brief:
-
  - Project brief will happen around 3:30pm. Trainees will
    - Have project explained by their instructors
      - (optionnal) Slide deck is here [here](https://slides.tomdev.it/project-guidelines/)
@@ -28,7 +26,6 @@ i
  - We still have 2 test to run:
    - https://test.neueda.com/test/HSBC2026EngineeringRestCICDXian - [qr](./qr-codes/cicd.png)
    - https://test.neueda.com/test/HSBC2026EngineeringWebDevelopmentXian
-
 
 ## Quiz & Games
  - Activities for when the energy is low [here](https://drive.proton.me/urls/K6FMAN5R8M#ODlGNVy7wr9j). Feel free to add your ideas! 
