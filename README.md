@@ -1,8 +1,10 @@
 # Xian - resources.
 
-## Today's Menu (Tuesday)
- - Starting wednesday, students of both room in sheraton will move in room 5 and 6 (they are combined) so we can conduct dry runs on room 3
-  
+## Today's Menu (Thurday)
+ - Here are the groups [here](./groups.png)  .You guys will decide among all of you who is getting in which room during the presentations.
+   - Still not sure about managers..
+   - At the end of each groups, both managers and trainees will have to fill a short survey (Please try to make it super fast since we have only five minutes window between groups). QR codes for each groups will be provided soon.
+
 ### Project brief:
  - Project brief will happen around 3:30pm. Trainees will
    - Have project explained by their instructors
