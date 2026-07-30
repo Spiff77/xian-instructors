@@ -1,7 +1,7 @@
 # Xian - resources.
 
 ## Today's Menu (Thurday)
- - Here are the groups [here](./groups.png)  .You guys will decide among all of you who is getting in which room during the presentations. Let me or Peter know if there are some typos in groups name
+     - Here are the groups [here](./groups.png)  .You guys will decide among all of you who is getting in which room during the presentations. Let me or Peter know if there are some typos in groups name. feel free to share with classes whenever you feel its right.
    - Still not sure about managers..
    - At the end of each groups, both managers and trainees will have to fill a short survey (Please try to make it super fast since we have only five minutes window between groups). QR codes for each groups will be provided soon.
 
