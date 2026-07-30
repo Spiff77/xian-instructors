@@ -1,11 +1,10 @@
 # Xian - resources.
 
-## LAST DAY Menu (Friday)
- - Here are the groups [here](./groups.png)  .You guys will decide among all of you who is getting in which room during the presentations. Let me or Peter know if there are some typos in groups name. feel free to share with classes whenever you feel its right.
+## LAST DAY Menu! (Friday)
+ - There are managers registered at every time slots (so far two managers max per slots). We do no wait for them if not present. We start on time.
  - At the end of each groups, both managers and trainees will have to fill a short survey (Please try to make it super fast since we have only five minutes window between groups). 
  - Virtual Machines and GitHub access for Xian will be terminated at the end of the last teaching day on the **31st July**.
  - Dont forget student feedbacks! 
- - There are managers registered at every time sloti (so far two max per room). We do no wait for them if not present. We start on time.
  - Group photo will be after presentations and before giving prices.
 
 ### Room A resources
@@ -13,7 +12,7 @@
  - Room A score sheet: https://drive.proton.me/urls/8MN7EQZDGR#J7lfp11Q2PgD
 
 ### Room B resources
- - Room B slides: https://slides.tomdev.it/presentation-room3/#/3
+ - Room B slides: https://slides.tomdev.it/presentation-room3/
  - Room B score sheet: https://drive.proton.me/urls/Y59N6NNZJG#fXVPoYQrDv2p 
 
 ### Others
