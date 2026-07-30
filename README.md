@@ -1,9 +1,10 @@
 # Xian - resources.
 
 ## Today's Menu (Thurday)
-     - Here are the groups [here](./groups.png)  .You guys will decide among all of you who is getting in which room during the presentations. Let me or Peter know if there are some typos in groups name. feel free to share with classes whenever you feel its right.
-   - Still not sure about managers..
-   - At the end of each groups, both managers and trainees will have to fill a short survey (Please try to make it super fast since we have only five minutes window between groups). QR codes for each groups will be provided soon.
+ - Here are the groups [here](./groups.png)  .You guys will decide among all of you who is getting in which room during the presentations. Let me or Peter know if there are some typos in groups name. feel free to share with classes whenever you feel its right.
+ - Still not sure about managers..
+ - At the end of each groups, both managers and trainees will have to fill a short survey (Please try to make it super fast since we have only five minutes window between groups). QR codes for each groups will be provided soon.
+ - Virtual Machines and GitHub access for Xian will be terminated at the end of the last teaching day on the **31st July**.
 
 ### Project brief:
  - Project brief will happen around 3:30pm. Trainees will
@@ -20,7 +21,6 @@
  - Since we have many absents in Ravi's class on Monday we will move HTML/CSS/JS on Monday 27 for Tobias and Ang.  **Only Ravi's class will do HTML/CSS/JS on today**.
 
 ### Global infos:
- - Virtual Machines and GitHub access for Xian will be terminated at the end of the last teaching day on the **31st July**.
 
 ### Tests
  - We still have 2 test to run:
